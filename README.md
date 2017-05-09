@@ -3,6 +3,8 @@
 
 ![image](screenshot.png)
 
+Video: https://www.youtube.com/watch?v=EUrU_-gktu4
+
 ## Requirements 
 * [Processing 3](https://processing.org/)
 * Processing Lib: [PeasyCam](http://mrfeinberg.com/peasycam/) 
